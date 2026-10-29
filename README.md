@@ -22,7 +22,7 @@
 
 ## Autor i korištenje AI-a
 
-Priručnik piše [korisničko ime] u sklopu kolegija Akademsko i tehničko pisanje na Sveučilištu u Zadru, 2026./2027.
+Priručnik piše m-uroda u sklopu kolegija Akademsko i tehničko pisanje na Sveučilištu u Zadru, 2026./2027.
 
 U ovoj verziji nisam koristila AI.
 
